@@ -1,0 +1,342 @@
+title,cuisine,city,address,rating
+1200 Miles,American New,Manhattan,31 W. 21st St.,4.0
+2 West,American New,Manhattan,"The Ritz-Carlton New York, Battery Park, 2 West St.",3.0
+'21' Club,American Traditional,Manhattan,21 W. 52nd St.,3.5
+A Voce Columbus,Italian,Manhattan,"Time Warner Center, 10 Columbus Circle, 3rd fl.",3.5
+A Voce Madison,Italian,Manhattan,41 Madison Ave.,3.5
+Abboccato Italian Kitchen,Italian,Manhattan,136 W. 55th St.,3.5
+Acme,American New,Manhattan,9 Great Jones St.,3.5
+Ai Fiori,Italian,Manhattan,"Langham Place Fifth Avenue, 400 Fifth Ave.",4.0
+All'onda,Italian,Manhattan,22 E. 13th St.,4.0
+American Cut,Steakhouse,Manhattan,363 Greenwich St.,4.0
+Amma Restaurant,Indian,Manhattan,246 E. 51st St.,4.0
+Ammos Estiatorio - Grand Central,Seafood,Manhattan,52 Vanderbilt Ave.,3.0
+Andanada,Spanish/Tapas,Manhattan,141 W. 69th St.,3.5
+Angus Club Steakhouse,Steakhouse,Manhattan,135 E. 55th St.,4.5
+Aretsky's Patroon,American New,Manhattan,160 E. 46th St.,3.5
+Arlington Club,Steakhouse,Manhattan,1032 Lexington Ave.,3.0
+Armani/Ristorante,Italian,Manhattan,"717 Fifth Ave., 3rd fl.",3.5
+Artisanal Fromagerie & Bistro,French,Manhattan,2 Park Ave.,3.5
+Asellina,Italian,Manhattan,"Gansevoort Hotel, 420 Park Ave. So.",3.5
+At Vermilion,Fusion,Manhattan,480 Lexington Ave.,3.0
+Atlantic Grill at Lincoln Center,Seafood,Manhattan,49 W. 64th St.,4.0
+Atlantic Grill East Side,Seafood,Manhattan,1341 Third Ave.,4.0
+Atrio Wine Bar l Restaurant,Mediterranean,Manhattan,"Conrad New York, 102 North End Ave."
+Auden Bistro & Bar,American New,Manhattan,"The Ritz-Carlton New York, Central Park, 50 Central Park South",4.0
+Aureole - Liberty Room,American New,Manhattan,"One Bryant Park, 135 W. 42nd St.",4.0
+Bann,Korean,Manhattan,350 W. 50th St.,3.5
+Bar Boulud,French,Manhattan,1900 Broadway,3.5
+Bar Eolo: Sicilian Kitchen & Wines,Italian,Manhattan,190 Seventh Ave.,2.5
+Bar Italia,Italian,Manhattan,768 Madison Ave.,3.5
+Bar Primi,Italian,Manhattan,325 Bowery,3.5
+Barbetta,Italian,Manhattan,321 W. 46th St.,3.0
+Barbounia,Mediterranean,Manhattan,250 Park Ave. South,3.5
+Barchetta,Italian,Manhattan,461 W. 23rd St.,3.5
+Barraca,Spanish/Tapas,Manhattan,81 Greenwich Ave.,3.5
+Beautique,American New,Manhattan,8 W. 58th St.,4.0
+Beauty & Essex,American New,Manhattan,146 Essex St.,4.5
+Bello Restaurant,Italian,Manhattan,863 Ninth Ave.,3.5
+Ben & Jack's Steakhouse on 5th,Steakhouse,Manhattan,255 Fifth Ave.,3.5
+Benchmark Restaurant,American New,Brooklyn,339A 2nd St.,3.5
+Benoit Restaurant & Bar,French,Manhattan,60 W. 55th St.,3.5
+Bill's Food & Drink,American New,Manhattan,57 E. 54th St.,3.5
+Bleecker Kitchen & Co.,American New,Manhattan,643 Broadway,3.5
+Blenheim,American New,Manhattan,283 W. 12th St.,3.0
+BLT Bar & Grill,American New,Manhattan,123 Washington St.,3.0
+Blue Fin,Seafood,Manhattan,"W New York–Times Sq., 1567 Broadway",3.5
+Blue Smoke - Battery Park City,Barbecue/Southern,Manhattan,255 Vesey St.,3.5
+Blue Smoke - Flatiron,Barbecue/Southern,Manhattan,116 E. 27th St.,3.5
+Blue Water Grill,Seafood,Manhattan,31 Union Sq. West,3.5
+"Bobby Van's ""The Original"" at 46th Street",Steakhouse,Manhattan,230 Park Ave.,3.5
+Bobby Van's Grill - West 45th Street,Steakhouse,Manhattan,120 W. 45th St.,3.5
+Bobby Van's Grill - West 50th Street,Steakhouse,Manhattan,135 W. 50th St.,3.5
+Bobby Van's Steakhouse - East 54th Street,Steakhouse,Manhattan,131 E. 54th St.,4.0
+Bobby Van's Steakhouse & Grill - Broad Street,Steakhouse,New York,25 Broad St.,3.5
+Bocca Restaurant & Bar,Italian,Manhattan,39 E. 19th St.,3.5
+Bodega Negra at Dream Downtown,Mexican,Manhattan,355 W. 16th St.,3.5
+Boulud Sud,Mediterranean,Manhattan,20 W. 64th St.,4.0
+Brasserie,French,Manhattan,100 E. 53rd St.,3.5
+Brasserie 8 1/2,French,Manhattan,9 W. 57th St.,3.5
+Brasserie Cognac,French,Manhattan,1740 Broadway,3.5
+Brasserie Ruhlmann,French,Manhattan,45 Rockefeller Plaza,3.5
+Bread & Tulips,Italian,Manhattan,365 Park Ave. South,4.5
+Burke & Wills,Australian,Manhattan,226 W. 79th St.,4.0
+Butter Midtown,American New,Manhattan,70 W. 45th St.,3.5
+BV's Grill,Steakhouse,Manhattan,919 Third Ave.,3.5
+Ça Va Brasserie,French,Manhattan,310 W. 44th St.,3.5
+Café Centro,French,Manhattan,200 Park Ave.,3.5
+Café D'Alsace,French,Manhattan,1695 Second Ave.,4.0
+Caffè Storico,Italian,Manhattan,"New-York Historical Society, 170 Central Park West",4.0
+Calle Ocho,Pan-Latin,Manhattan,45 W. 81st St.,4.0
+Caravaggio,Italian,Manhattan,23 E. 74 St.,3.5
+Casa Mono,Spanish/Tapas,Manhattan,52 Irving Pl.,4.0
+Casa Nonna,Italian,Manhattan,310 W. 38th St.,4.0
+Charlie Palmer Steak,Steakhouse,Manhattan,3 E. 54th St.,3.5
+Cherry,Japanese,Manhattan,355 W. 16th St.,4.0
+Cherry Izakaya,Japanese,Brooklyn,138 N. 8th St.,3.5
+Chez Josephine,French,Manhattan,414 W. 42nd St.,3.5
+China Grill,Asian Fusion,Manhattan,60 W. 53rd St.,3.5
+Church & Dey,American New,Manhattan,"Millenium Hilton, 55 Church St.",4.5
+Cipriani Dolci,Italian,Manhattan,"89 E. 42nd St., Grand Central Terminal, West Balcony",2.5
+Cipriani Wall Street,Italian,Manhattan,55 Wall St.,3.5
+Circo,Italian,Manhattan,120 W. 55th St.,3.5
+Circus Restaurant,Pan-Latin,Manhattan,132 E. 61st St.,4.0
+City Crab & Seafood Company,Seafood,Manhattan,235 Park Ave. South,3.0
+City Hall Restaurant,American Traditional,Manhattan,131 Duane St.,3.5
+City Lobster & Steak,Seafood,Manhattan,121 W. 49th St.,3.0
+Clement,American New,Manhattan,"The Peninsula New York, 700 Fifth Ave., mezzanine level",4.0
+Colicchio & Sons Taproom,American New,Manhattan,85 Tenth Ave.,4.0
+Co-Op Food & Drink,American New,Manhattan,107 Rivington St.,2.5
+Costata,Italian,Manhattan,206 Spring St.,4.0
+Craftbar,American New,Manhattan,900 Broadway,3.5
+Crema Restaurante,Mexican,Manhattan,111 W. 17th St.,3.5
+Crossroads American Kitchen and Bar,American New,Manhattan,"New York Marriott Marquis, 1535 Broadway, 8th fl., lobby level",3.0
+Darbar,Indian,Manhattan,152 E. 46th St.,3.5
+Darbar Grill,Indian,Manhattan,157 E. 55th St.,4.0
+David Burke at Bloomingdale's,American New,Manhattan,1000 Third Ave.,3.0
+David Burke Kitchen,American New,Manhattan,23 Grand St.,3.5
+Davio's Northern Italian Steakhouse,Steakhouse,Manhattan,447 Lexington Ave.,4.0
+DB Bistro Moderne,French,Manhattan,55 W. 44th St.,3.5
+DBGB Kitchen and Bar,French,Manhattan,299 Bowery,3.5
+Delmonico's Kitchen,American New,Manhattan,207 W. 36th St.,3.5
+Delmonico's Restaurant,Steakhouse,Manhattan,56 Beaver St.,3.5
+Dévi,Indian,Manhattan,8 E. 18th St.,3.5
+Docks Oyster Bar,Seafood,Manhattan,633 Third Ave.,3.5
+Dos Caminos Meatpacking District,Mexican,Manhattan,675 Hudson St.,3.5
+Dos Caminos Park Avenue,Mexican,Manhattan,373 Park Ave. South,3.5
+Dos Caminos SoHo,Mexican,Manhattan,475 W. Broadway,3.5
+Dos Caminos Third Avenue,Mexican,Manhattan,825 Third Ave.,3.0
+Dovetail,American New,Manhattan,103 W. 77th St.,4.0
+E&E Grill House,American New,Manhattan,233 W. 49th St.,4.5
+East & West,American New,Manhattan,"Yotel New York at Times Square West, 570 Tenth Ave., 4th fl.",3.5
+Ed's Chowder House,Seafood,Manhattan,"44 W. 63rd St., 2nd fl.",3.0
+El Toro Blanco,Mexican,Manhattan,257 Sixth Ave.,3.5
+El Vez,Mexican,Manhattan,259 Vesey St.,3.5
+Empellón Cocina,Mexican,Manhattan,105 First Ave.,3.5
+Empellón Taqueria,Mexican,Manhattan,230 W. 4th St.,3.5
+Empire Steak House - West 54th Street,Steakhouse,Manhattan,237 W. 54th St.,4.5
+En Japanese Brasserie,Japanese,Manhattan,435 Hudson St.,4.0
+Esca,Seafood,Manhattan,402 W. 43rd St.,3.5
+Estiatorio Milos,Seafood,Manhattan,125 W. 55th St.,4.0
+Etcetera Etcetera,Italian,Manhattan,352 W. 44th St.,4.0
+Felice 15 Gold Street,Italian,Manhattan,15 Gold St.,3.5
+Felice 83,Italian,Manhattan,1593 First Ave.,3.5
+Felidia,Italian,Manhattan,243 E. 58th St.,4.0
+Fig & Olive - Downtown,Mediterranean,Manhattan,420 W. 13th St.,4.0
+Fig & Olive - Midtown,Mediterranean,Manhattan,10 E. 52nd St.,4.0
+Fig & Olive - Uptown,Mediterranean,Manhattan,808 Lexington Ave.,4.0
+Fino Ristorante Italiano,Italian,Manhattan,82 Beaver St.,3.5
+FishTag,Seafood,Manhattan,222 W. 79th St.,4.0
+Fogo de Chão Churrascaria Brazilian Steakhouse,Brazilian,Manhattan,40 W. 53rd St.,4.0
+Fonda,Mexican,Manhattan,40 Ave. B,4.0
+Frankie & Johnnie's Steakhouse - 37th Street,Steakhouse,Manhattan,32 W. 37th St.,4.0
+Fung Tu,Chinese,Manhattan,22 Orchard St.,4.0
+Gabriel's Bar & Restaurant,Italian,Manhattan,11 W. 60th St.,4.0
+Gallaghers Steakhouse,Steakhouse,Manhattan,228 W. 52nd St.,4.0
+Gaonnuri,Korean,Manhattan,"1250 Broadway, 39th fl.",3.5
+Giorgio's of Gramercy,American New,Manhattan,27 E. 21st St.,4.0
+Glass House Tavern,American New,Manhattan,252 W. 47th St.,3.5
+Gotham Bar & Grill,American New,Manhattan,12 E. 12th St.,4.5
+Grape & Vine,American New,Manhattan,"The Jade Hotel Greenwich Village, 52 W. 13th St.",4.0
+Grotta Azzurra Restaurant,Italian,Manhattan,177 Mulberry St.,3.0
+Hakkasan New York,Chinese,Manhattan,311 W. 43rd St.,3.5
+HanGawi,Korean,Manhattan,12 E. 32nd St.,4.0
+Harlow,Seafood,Manhattan,109 E. 56th St.,3.5
+Haru Amsterdam Avenue,Japanese,Manhattan,433 Amsterdam Ave.,3.5
+Haru Gramercy Park,Japanese,Manhattan,220 Park Ave. South,3.5
+Haru Third Avenue,Japanese,Manhattan,1329 Third Ave.,3.0
+Hatsuhana Sushi Restaurant,Japanese,Manhattan,17 E. 48th St.,4.0
+i Trulli Ristorante/Enoteca,Italian,Manhattan,122 E. 27th St.
+Il Cantinori Restaurant,Italian,Manhattan,32 E. 10th St.,4.0
+Il Mulino New York—Downtown,Italian,Manhattan,86 W. 3rd St.,4.0
+Il Mulino New York—Uptown,Italian,Manhattan,37 E. 60th St.,3.5
+Il Mulino Prime,Steakhouse,Manhattan,331 West Broadway,4.0
+Il Mulino Trattoria,Italian,Manhattan,36 E. 20th St.,3.5
+ilili Restaurant,Mediterranean,Manhattan,236 Fifth Ave.,4.0
+Inakaya New York,Japanese,Manhattan,231 W. 40th St.,3.5
+Indochine,Vietnamese,Manhattan,430 Lafayette St.,3.5
+Isabella's,Mediterranean,Manhattan,359 Columbus Ave.,3.5
+JoJo,French,Manhattan,160 E. 64th St.,4.0
+Junoon,Indian,Manhattan,27 W. 24th St.,4.0
+Kefi,Greek,Manhattan,505 Columbus Ave.,4.0
+Kellari Taverna,Greek,Manhattan,19 W. 44th St.,3.5
+Ken & Cook,American New,Manhattan,19 Kenmare St.,3.5
+Kin Shop,Thai,Manhattan,469 Sixth Ave.,3.5
+Koi SoHo,Japanese,Manhattan,"Trump SoHo New York, 246 Spring St.",4.0
+Kristalbelli,Korean,Manhattan,8 W. 36th St.,4.0
+La Fonda Del Sol,Spanish/Tapas,Manhattan,"Met Life Building, 200 Park Ave.",3.5
+La Masseria,Italian,Manhattan,235 W. 48th St.,4.0
+Lafayette,French,Manhattan,380 Lafayette St.,3.5
+Lavo Restaurant,Italian,Manhattan,39 E. 58th St.,3.0
+Le Cirque,French,Manhattan,151 E. 58th St.,3.5
+Le Colonial,Vietnamese,New York,149 E. 57th St.,3.5
+Le Périgord,French,Manhattan,405 E. 52nd St.,3.5
+"L'École, The Restaurant of The International Culinary Center",Continental,Manhattan,462 Broadway,3.5
+Left Bank,American New,Manhattan,117 Perry St.,4.0
+Les Halles,French,Manhattan,411 Park Ave. So.,3.5
+Les Halles - Downtown,French,Manhattan,15 John St.,3.5
+Lexington Brass,American New,Manhattan,517 Lexington Ave.,3.5
+Lido,Italian,Manhattan,2168 Frederick Douglass Blvd.,4.0
+Lincoln Center Kitchen,American New,Manhattan,"Avery Fisher Hall, Lincoln Center, Columbus Ave. at 64th St.",2.5
+Lincoln Ristorante,Italian,Manhattan,142 W. 65th St.,4.0
+Little Park,American New,Manhattan,"Smyth, a Thompson Hotel, 85 West Broadway",4.5
+Lupa Osteria Romana,Italian,Manhattan,170 Thompson St.,4.0
+Lure Fishbar,Seafood,Manhattan,142 Mercer St.,4.0
+Macelleria,Steakhouse,Manhattan,48 Gansevoort St.,3.0
+Macondo West,Pan-Latin,Manhattan,2 Bank St.,4.5
+Maloney & Porcelli,Steakhouse,Manhattan,37 E. 50th St.,4.0
+MarkJoseph Steakhouse,Steakhouse,Manhattan,261 Water St.,4.0
+Marseille,French,Manhattan,630 Ninth Ave.,3.5
+Match 65 Brasserie,French,Manhattan,29 E. 65th St.,3.0
+Maya,Mexican,Manhattan,1191 First Ave.,3.5
+Maze by Gordon Ramsay,French,Manhattan,151 W. 54th St.,3.5
+Mercer Kitchen,American New,Manhattan,99 Prince St.,3.5
+Mezzogiorno Restaurant,Italian,Manhattan,195 Spring St.,3.5
+Michael Jordan's The Steak House N.Y.C.,Steakhouse,Manhattan,"Grand Central Terminal, 23 Vanderbilt Ave.",3.0
+Michael's Restaurant,American New,Manhattan,24 W. 55th St.,3.5
+Mint Restaurant,Indian,Manhattan,150 E. 50th St.,3.0
+Minton&#39;s,Soul Food/Southern,Manhattan,210 W. 118th St.
+Molyvos Restaurant,Greek,Manhattan,871 Seventh Ave.,3.5
+Monkey Bar,American Traditional,Manhattan,60 E. 54th St.,3.5
+Montebello Restaurant,Italian,Manhattan,120 E. 56th St.,3.0
+Morimoto NY,Japanese,Manhattan,88 Tenth Ave.,4.0
+Morrell Wine Bar & Cafe,American New,Manhattan,One Rockefeller Plaza,3.5
+Morton's Grille,American Traditional,Manhattan,233 Park Ave. South,3.5
+Morton's The Steakhouse - Manhattan,Steakhouse,Manhattan,551 Fifth Ave.,4.0
+Morton's The Steakhouse - World Trade Center,Steakhouse,Manhattan,136 Washington St.,4.0
+Mr. Chow New York - 57th Street,Chinese,Manhattan,324 E. 57th St.,3.0
+Mr. Chow New York - Tribeca,Chinese,Manhattan,121 Hudson St.,3.5
+Mr. K's,Chinese,Manhattan,570 Lexington Ave.,3.0
+Murray's Cheese Bar,American New,Manhattan,264 Bleecker St.,4.0
+Naples 45,Italian,Manhattan,200 Park Ave.,3.5
+Narcissa,American New,Manhattan,"The Standard, East Village, 25 Cooper Sq.",4.0
+Natsumi,Japanese,Manhattan,226 W. 50th St.,4.0
+Nice Matin,French,Manhattan,201 W. 79th St.,3.5
+Nick & Stef's Steakhouse,Steakhouse,Manhattan,9 Penn Plaza,4.0
+Nino's Restaurant,Italian,Manhattan,1354 First Ave.,3.5
+Nino's Tuscany Steakhouse,Italian,Manhattan,117 W. 58th St.,3.5
+Nobu New York,Japanese,Manhattan,105 Hudson St.,4.0
+Nobu Next Door,Japanese,Manhattan,105 Hudson St.,4.0
+Norma's,American New,Manhattan,"Le Parker Meridien New York, 118 W. 57th St.",3.5
+North Square Restaurant & Lounge,American New,Manhattan,103 Waverly Pl.,3.5
+Nougatine at Jean-Georges,American New,Manhattan,1 Central Park West,4.0
+NYY Steak - Manhattan,Steakhouse,Manhattan,7 W. 51st St.,4.0
+Obao Hell's Kitchen,Thai,Manhattan,647 Ninth Ave.,4.0
+Obicà Mozzarella Bar Pizza e Cucina,Italian,Manhattan,928 Broadway,4.0
+Ocean Grill,Seafood,Manhattan,384 Columbus Ave.,4.0
+Opia Restaurant Bar Lounge,French,Manhattan,"130 E. 57th St., 2nd fl.",3.0
+Orsay Restaurant,French,Manhattan,1057 Lexington Ave.,3.5
+Orso Restaurant,Italian,Manhattan,322 W. 46th St.,4.0
+Ouest,American New,Manhattan,2315 Broadway,4.0
+Pampano,Mexican,Manhattan,209 E. 49th St.,4.0
+Paramount Bar & Grill,American New,Manhattan,"Paramount Hotel New York, 235 W. 46th St.",3.0
+Park Avenue Winter,American New,Manhattan,360 Park Ave. South,4.0
+Parlor Steakhouse,Steakhouse,Manhattan,1600 Third Ave.,3.5
+Pera Mediterranean Brasserie,Mediterranean,Manhattan,303 Madison Ave.,3.5
+Pera SoHo,Mediterranean,Manhattan,54 Thompson St.,3.5
+Perilla,American New,Manhattan,9 Jones St.,4.0
+Periyali,Greek,Manhattan,35 W. 20th St.,4.0
+Perry Street,American New,Manhattan,176 Perry St.,4.0
+Pershing Square,American Traditional,Manhattan,90 E. 42nd St.,3.0
+Petrossian,Continental,Manhattan,182 W. 58th St.,3.5
+Pigalle,French,Manhattan,790 Eighth Ave.,3.0
+Porter House New York,Steakhouse,Manhattan,"Time Warner Center, 10 Columbus Circle, 4th fl.",3.5
+Raymi,Peruvian,Manhattan,43 W. 24th St.,4.0
+Red Rooster Harlem,American New,Manhattan,310 Lenox Ave.,3.5
+Remi Restaurant,Italian,Manhattan,145 W. 53rd St.,3.5
+Restaurant Nippon,Japanese,Manhattan,155 E. 52nd St.,4.0
+Resto,French,Manhattan,111 E. 29th St.,3.5
+Ristorante Morini,Italian,Manhattan,1167 Madison Ave.,4.0
+Riverpark,American New,Manhattan,450 E. 29th St.,4.0
+Rock Center Café,American Traditional,Manhattan,20 W. 50th St.,3.0
+Rocking Horse Cafe,Mexican,Manhattan,182 Eighth Ave.,4.0
+Root & Bone,Soul Food/Southern,Manhattan,200 E. 3rd St.,4.0
+Rosa Mexicano at First Avenue,Mexican,Manhattan,1063 First Ave.,3.5
+Rosa Mexicano at Lincoln Center,Mexican,Manhattan,61 Columbus Ave.,3.5
+Rosa Mexicano at Union Square,Mexican,Manhattan,9 E. 18th St.,3.5
+Rossini's Restaurant,Italian,Manhattan,108 E. 38th St.,3.5
+Ruby Foo's Times Square,Asian Fusion,Manhattan,1626 Broadway,3.0
+Ruth's Chris Steak House,Steakhouse,Manhattan,148 W. 51st St.,4.0
+Sant Ambroeus - West Village,Italian,Manhattan,259 W. 4th St.,3.5
+Sant Ambroeus SoHo,Italian,Manhattan,265 Lafayette St.,4.0
+Sarabeth's Upper East Side,American New,Manhattan,1295 Madison Ave.,3.5
+Sarabeth's Upper West Side,American New,Manhattan,423 Amsterdam Ave.,3.5
+Sarabeth's Central Park South,American New,Manhattan,40 Central Park South,3.5
+Sarabeth's Park Avenue South,American New,Manhattan,381 Park Ave. South,3.0
+Sarabeth's Tribeca,American New,Manhattan,339 Greenwich St.,3.5
+Saul,American New,Brooklyn,"Brooklyn Museum, 200 Eastern Parkway",3.5
+Savore Ristorante,Italian,Manhattan,200 Spring St.,3.5
+Sazón,Pan-Latin,Manhattan,105 Reade St.,3.5
+Scaletta Ristorante,Italian,Manhattan,50 W. 77th St.,3.5
+Scarpetta,Italian,Manhattan,355 W. 14th St.,4.0
+SD26 Restaurant & Wine Bar,Italian,Manhattan,19 E. 26th St.,3.5
+Shula's Steak House,Steakhouse,Manhattan,"Westin New York at Times Square, 270 W. 43rd St.",3.5
+Shun Lee Palace,Chinese,Manhattan,155 E. 55th St.,3.5
+Sirio Ristorante,Italian,Manhattan,795 Fifth Ave.,4.0
+Smith & Wollensky,Steakhouse,Manhattan,797 Third Ave.,3.5
+Smoke Jazz & Supper Club,American New,Manhattan,2751 Broadway,4.0
+Socarrat Paella Bar - Chelsea,Spanish/Tapas,Manhattan,259 W. 19th St.,4.0
+Socarrat Paella Bar - East,Spanish/Tapas,Manhattan,953 Second Ave.,4.0
+Socarrat Paella Bar - Nolita,Spanish/Tapas,Manhattan,284 Mulberry St.,4.0
+Sofrito,Pan-Latin,Manhattan,400 E. 57th St.,3.5
+Southgate Bar & Restaurant,American New,Manhattan,"JW Marriott Essex House New York, 154 Central Park South",3.5
+Spasso,American New,Manhattan,551 Hudson St.,4.0
+Spice Market,Asian Fusion,Manhattan,403 W. 13th St.,3.5
+State Grill and Bar,American New,Manhattan,"Empire State Building, 350 Fifth Ave. (enter on 33rd St.)",5.0
+Stella 34 Trattoria,Italian,Manhattan,"Macy's Herald Square, 151 W. 34th St., 6th fl.",4.0
+STK Midtown,Steakhouse,Manhattan,1114 Sixth Ave.,3.5
+Strip House Midtown,Steakhouse,Manhattan,15 W. 44th St.,4.0
+SushiSamba NYC West Village,Asian Fusion,Manhattan,87 Seventh Ave. South,3.5
+T Bar Steak and Lounge,American New,Manhattan,1278 Third Ave.,3.5
+Taboon,Mediterranean,Manhattan,773 Tenth Ave.,4.0
+Tamarind Tribeca,Indian,Manhattan,99 Hudson St.,4.0
+Tao Uptown,Pan-Asian,Manhattan,42 E. 58th St.,3.5
+Tarallucci e Vino—Union Square,Italian,Manhattan,15 E. 18th St.,3.5
+Tavern on the Green,American New,Manhattan,1 Tavern on the Green,3.0
+Ted's Montana Grill,American Traditional,Manhattan,110 W. 51st St.,3.5
+Telepan,American New,Manhattan,72 W. 69th St.,4.0
+Tertulia,Spanish/Tapas,Manhattan,359 Sixth Ave.,3.5
+Texas de Brazil,Brazilian,Manhattan,1011 Third Ave.,3.5
+Thalassa Restaurant,Greek,Manhattan,179 Franklin St.,3.5
+Thalia Restaurant,American New,Manhattan,828 Eighth Ave.,3.5
+The Americano,French,Manhattan,"Hotel Americano, 518 W. 27th St.",3.5
+The Back Room at One57,American New,Manhattan,"Park Hyatt New York, 153 W. 57th St., 3rd fl.",3.5
+The Capital Grille Chrysler Center,Steakhouse,Manhattan,155 E. 42nd St.,4.0
+The Capital Grille Time Life,Steakhouse,Manhattan,120 W. 51st St.,4.0
+The Capital Grille Wall Street,Steakhouse,Manhattan,120 Broadway,4.0
+The Cecil,African,Manhattan,210 W. 118th St.,4.0
+The Den,American New,Manhattan,"Hyatt Herald Square New York, 30-32 W. 31st St.",4.5
+The Fourth Restaurant,American New,Manhattan,132 Fourth Ave.,3.0
+The Gander,American New,Manhattan,15 W. 18th St.,4.0
+The Lambs Club Bar,American New,Manhattan,132 W. 44th St.,3.0
+The Leopard at des Artistes,Italian,Manhattan,1 W. 67th St.,4.0
+The Library at The Public,American New,Manhattan,"The Public Theater, 425 Lafayette St., mezzanine level",4.0
+The Lion,American Traditional,Manhattan,62 W. 9th St.,3.5
+The Morgan Dining Room,American New,Manhattan,225 Madison Ave.,4.0
+The National Bar & Dining Rooms,American New,Manhattan,557 Lexington Ave.,3.0
+The Peacock,British,Manhattan,24 E. 39th St.,4.0
+The Red Cat,American New,Manhattan,227 Tenth Ave.,4.0
+The Russian Tea Room,Continental,Manhattan,150 W. 57th St.,3.0
+The Sea Grill,Seafood,Manhattan,19 W. 49th St.,3.5
+The Stanton Social,American New,Manhattan,99 Stanton St.,4.0
+The Strand Bistro,American New,Manhattan,33 W. 37th St.,3.5
+The View Restaurant & Lounge,American New,Manhattan,"New York Marriott Marquis, 1535 Broadway",3.0
+The Water Club,American Traditional,Manhattan,East River btwn. 23rd & 34th Sts.,3.5
+The Wayfarer,American Traditional,Manhattan,101 W. 57th St.,3.5
+The Writing Room,American New,Manhattan,1703 Second Ave.,4.0
+Todd English Food Hall,American New,Manhattan,"1 W. 59th St., Concourse",3.5
+Toloache,Mexican,Manhattan,251 W. 50th St.,4.0
+Toloache Thompson,Mexican,Manhattan,205 Thompson St.,4.0
+Tribeca Grill,American New,Manhattan,375 Greenwich St.,3.5
+Triomphe Restaurant,French,Manhattan,"The Iroquois New York, 49 W. 44th St.",3.5
+Tulsi,Indian,Manhattan,211 E. 46th St.,3.5
+ViceVersa,Italian,Manhattan,325 W. 51st St.,3.5
+Victor's Cafe,Cuban,Manhattan,236 W. 52nd St.,4.0
+Villa Berulia,Italian,Manhattan,107 E. 34th St.,4.0
+Water's Edge Restaurant,American New,Queens,401 44th Dr. at the East River,3.0
+Yerba Buena,Pan-Latin,Manhattan,23 Ave. A,4.0
+Yerba Buena Perry,Pan-Latin,Manhattan,1 Perry St.,4.0
+Zengo,Asian Fusion,Manhattan,622 Third Ave.,3.5
+Zio Ristorante,Italian,Manhattan,17 W. 19th St.,4.0
+Pó,Italian,Manhattan,31 Cornelia St.,4.0
+Catch NYC,Seafood,Manhattan,21 Ninth Ave.,3.5
